@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">慢阻肺</string>
+    <string name="title_home">主页</string>
+    <string name="title_device">设备</string>
+    <string name="title_questionnaire">问卷</string>
+    <string name="title_mine">我的</string>
+
+</resources>
